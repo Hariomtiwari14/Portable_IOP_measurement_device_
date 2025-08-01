@@ -66,6 +66,7 @@ Glaucoma is one of the leading causes of blindness globally. Regular monitoring 
 |------------------|-------------------------------------------------------------|-------------------|
 | **Mohit Jagtap** | [@itsmemohitjagtap](https://github.com/itsmemohitjagtap)    | Team Lead         |
 | **Amol Raut**    | [@Amolraut638](https://github.com/Amolraut638)              | Software & Design |
+| **Hariom Tiwari**| [@Hariomtiwari14](https://github.com/Hariomtiwari14)        | Hardware          |
  
 > Department of Electronics and Telecommunication  
 > Dr. D. Y. Patil Institute of Engineering Management and Research, Pune  
